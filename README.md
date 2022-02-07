@@ -3,10 +3,10 @@
 - 👀 I'm inclined towards Web Development and I've recently started to learn MERN stack! 
 - 💞️ Open for Collaboration
 - 📫 How to reach me?
+      <br>
       - https://akshaya101.showwcase.com/
       <br>
       - https://www.linkedin.com/in/akshaya-chanchala-75133a18b/
-
 <!---
 Akshaya101/Akshaya101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
