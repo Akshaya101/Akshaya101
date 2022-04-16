@@ -4,8 +4,6 @@
 - 💞️ Open for Collaboration
 - 📫 How to reach me?
       <br>
-      - https://akshaya101.showwcase.com/
-      <br>
       - https://www.linkedin.com/in/akshaya-chanchala-75133a18b/
 <!---
 Akshaya101/Akshaya101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
