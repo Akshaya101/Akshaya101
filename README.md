@@ -6,8 +6,6 @@ Currently, I am pursing my Bachelor's degree in Computer Science. Looking forwar
 - I'm currently learning MERN stack 📚
 - I write [technical articles](https://akshayachanchala.showwcase.com/shows) based on Web Development 📝
 
-<br/>  
-
 # Technical Skills 💻
 <div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -20,8 +18,6 @@ Currently, I am pursing my Bachelor's degree in Computer Science. Looking forwar
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
-
-<br/>  
 
 ## Find me here! 🔗
 <div align="left">
@@ -38,12 +34,6 @@ Currently, I am pursing my Bachelor's degree in Computer Science. Looking forwar
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 ## Github Stats 🧻
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Akshaya101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Akshaya101&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
