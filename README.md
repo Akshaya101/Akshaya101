@@ -1,9 +1,10 @@
 # Hi, I'm Akshaya 👋👩‍💻
-Currently, I am pursing my Bachelor's degree in Computer Science. Looking forward to working with organizations where I can utilize my skills to their maximum potential.
+Currently, I am pursing my Bachelor's degree in Computer Science. Currently working on my development skills while learning algorithms. Looking forward to working with organizations where I can utilize my skills to their maximum potential. I'
 
 # About Me 👩
 - I'm based in India 🌏
-- I'm currently learning MERN stack 📚
+- I'm currently learning MERN stack and also working on Blockchain Technology 📚
+- You can contact me at chanchala9119@gmail.com 📩
 - I write [technical articles](https://akshayachanchala.showwcase.com/shows) based on Web Development 📝
 
 # Technical Skills 💻
