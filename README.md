@@ -6,6 +6,7 @@ I am a Senior in College, currently pursing my Bachelor's degree in Computer Sci
 - I'm currently learning MERN stack and also working on Blockchain Technology 📚
 - You can contact me at chanchala9119@gmail.com 📩
 - I write [technical articles](https://akshayachanchala.showwcase.com/shows) based on Web Development 📝
+- Design of the app that I'm working on, [developed using Figma](https://github.com/Akshaya101/CREX/tree/master/wireframe) 🖼
 
 # Technical Skills 💻
 <div align="left">  
