@@ -1,9 +1,9 @@
 # Hi, I'm Akshaya 👋👩‍💻
-I am a Senior in College, currently pursing my Bachelor's degree in Computer Science. I am working on my development skills whilst learning data structures and algorithms. I am Looking forward to working with organizations where I can utilize my skills to their maximum potential.
+I am a Senior in College, currently pursing my Bachelor's degree in Computer Science. I am working on my development skills whilst learning data structures and algorithms. I am Llooking forward to work with organizations where I can utilize my skills to their maximum potential.
 
 # About Me 👩
 - I'm based in India 🌏
-- I'm currently learning MERN stack and also working on Blockchain Technology 📚
+- I'm currently learning about MERN stack and also working on Blockchain Technology 📚
 - You can contact me at chanchala9119@gmail.com 📩
 - I write [technical articles](https://akshayachanchala.showwcase.com/shows) based on Web Development 📝
 - Design of the app that I'm working on, [developed using Figma](https://github.com/Akshaya101/CREX/tree/master/wireframe) 🖼
