@@ -1,5 +1,5 @@
 # Hi, I'm Akshaya 👋👩‍💻
-I am a Senior in College, currently pursing my Bachelor's degree in Computer Science. I am working on my development skills whilst learning data structures and algorithms. I am Llooking forward to work with organizations where I can utilize my skills to their maximum potential.
+I am pursing my Bachelor's degree in Computer Science, currently working on my development skills whilst learning data structures and algorithms. I am looking forward to work with organizations where I can utilize my skills to their maximum potential.
 
 # About Me 👩
 - I'm based in India 🌏
