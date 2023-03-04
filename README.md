@@ -36,6 +36,9 @@ I am pursing my Bachelor's degree in Computer Science, currently working on my d
 <a href="https://dev.to/https://dev.to/akshaya101" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
+<a href="https://hashnode.com/@Akshaya101" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+  </a>
 </div>  
 
 ## Github Stats 🧻
