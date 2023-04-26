@@ -41,5 +41,6 @@ I am pursing my Bachelor's degree in Computer Science, currently working on my d
   </a>
 </div>  
 
-## Github Stats 🧻
+<!-- ## Github Stats 🧻
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Akshaya101&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+ -->
