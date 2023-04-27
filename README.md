@@ -7,6 +7,7 @@ I am pursing my Bachelor's degree in Computer Science, currently working on my d
 - You can contact me at chanchala9119@gmail.com 📩
 - I write [technical articles](https://akshayachanchala.showwcase.com/shows) based on Web Development 📝
 - Look into my blogs on [hashnode](https://akshayachanchala.hashnode.dev/) ✍
+- Checkout my Blogging and Project highlights [here](https://www.polywork.com/akshayachanchala)
 - Design of the app that I'm working on, [developed using Figma](https://github.com/Akshaya101/CREX/tree/master/wireframe) 🖼
 
 # Technical Skills 💻
