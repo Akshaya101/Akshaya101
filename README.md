@@ -4,7 +4,7 @@ I am pursing my Bachelor's degree in Computer Science, currently working on my d
 # About Me 👩
 - I'm based in India 🌏
 - I'm currently learning about MERN stack and also working on Blockchain Technology 📚
-- You can contact me at chanchala9119@gmail.com 📩
+- You can contact me at akshayachanchala9@gmail.com 📩
 - I write [technical articles](https://akshayachanchala.showwcase.com/shows) based on Web Development 📝
 - Look into my blogs on [hashnode](https://akshayachanchala.hashnode.dev/) ✍
 - Checkout my Blogging and Project highlights [here!](https://www.polywork.com/akshayachanchala)
