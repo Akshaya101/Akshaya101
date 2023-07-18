@@ -5,9 +5,9 @@ I am pursing my Bachelor's degree in Computer Science, currently working on my d
 - I'm based in India 🌏
 - I'm currently learning about MERN stack and also working on Blockchain Technology 📚
 - You can contact me at akshayachanchala9@gmail.com 📩
-- I write [technical articles](https://akshayachanchala.showwcase.com/shows) based on Web Development 📝
+- I write [technical articles](https://akshaya101.github.io/blogs/) based on Web Development 📝
 - Look into my blogs on [hashnode](https://akshayachanchala.hashnode.dev/) ✍
-- Checkout my Blogging and Project highlights [here!](https://www.polywork.com/akshayachanchala)
+- Checkout my Blogging and Project highlights [here!](https://akshaya101.github.io/projects/)
 - Design of the app that I'm working on, [developed using Figma](https://github.com/Akshaya101/CREX/tree/master/wireframe) 🖼
 
 # Technical Skills 💻
@@ -37,6 +37,9 @@ I am pursing my Bachelor's degree in Computer Science, currently working on my d
 <a href="https://dev.to/https://dev.to/akshaya101" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
+<a href="https://akshaya101.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-website-blue" alt="badge" style="margin-bottom: 5px;" />
+</a>
 <a href="https://hashnode.com/@Akshaya101" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
   </a>
