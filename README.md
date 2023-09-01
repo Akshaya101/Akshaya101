@@ -1,5 +1,8 @@
 # Hi, I'm Akshaya 👋👩‍💻
-I am pursing my Bachelor's degree in Computer Science, currently working on my development skills whilst learning data structures and algorithms. I am looking forward to work with organizations where I can utilize my skills to their maximum potential.
+I am Akshaya Chanchala, currently getting on grips with coding.
+I have been working on a few projects of my own whilst learning how to code. In addition to learning, I also write technical blogs, you can check them out under shows!
+I am currently learning about the MERN stack and Blockchain technology.
+Looking forward to working with organizations where my skills can be fully utilized.
 
 # About Me 👩
 - I'm based in India 🌏
