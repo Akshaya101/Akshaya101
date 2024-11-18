@@ -8,7 +8,7 @@ Looking forward to working with organizations where my skills can be fully utili
 - I'm based in India 🌏
 - I'm currently learning about MERN stack and also working on Blockchain Technology 📚
 - [Know more about my work here!](https://akshaya101.github.io/)
-- You can contact me at akshayachanchala9@gmail.com 📩
+- You can contact me at akshayacodes@gmail.com 📩
 - I write [technical articles](https://akshaya101.github.io/blogs/) based on Web Development 📝
 - Look into my blogs on [hashnode](https://akshayachanchala.hashnode.dev/) ✍
 - Checkout my Blogging and Project highlights [here!](https://akshaya101.github.io/projects/)
